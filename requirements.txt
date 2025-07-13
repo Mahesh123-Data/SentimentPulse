@@ -3,3 +3,4 @@ textblob
 pandas
 matplotlib
 nltk
+plotly
