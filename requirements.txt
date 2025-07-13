@@ -1,7 +1,9 @@
 streamlit
-textblob
 pandas
 matplotlib
-nltk
 plotly
+wordcloud
 vaderSentiment
+textblob
+nltk
+numpy
